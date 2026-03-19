@@ -2,6 +2,9 @@
 title: "Terraform"
 ring: "adopt"
 moved: 0
+tags:
+  - infrastructure
+  - iac
 history:
   - date: "2024-03"
     ring: adopt

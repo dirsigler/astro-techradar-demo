@@ -2,6 +2,15 @@
 title: "React"
 ring: "adopt"
 moved: 0
+owner:
+  name: "Frontend Guild"
+links:
+  - label: React Docs
+    url: https://react.dev
+    type: docs
+  - label: Website
+    url: https://react.dev
+    type: website
 history:
   - date: "2022-01"
     ring: adopt

@@ -2,6 +2,15 @@
 title: "TypeScript"
 ring: "adopt"
 moved: 0
+owner:
+  name: "Frontend Guild"
+links:
+  - label: TypeScript Docs
+    url: https://www.typescriptlang.org/docs/
+    type: docs
+  - label: GitHub
+    url: https://github.com/microsoft/TypeScript
+    type: repo
 history:
   - date: "2023-01"
     ring: adopt
